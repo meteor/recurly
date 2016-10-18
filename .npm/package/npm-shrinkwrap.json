@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "js2xmlparser": {
+      "version": "0.1.7",
+      "resolved": "https://registry.npmjs.org/js2xmlparser/-/js2xmlparser-0.1.7.tgz",
+      "from": "js2xmlparser@0.1.7"
+    },
+    "lodash": {
+      "version": "4.16.4",
+      "resolved": "file:node_shrinkwrap/lodash-4.16.4.tgz",
+      "from": "lodash@>=4.0.0 <5.0.0"
+    },
+    "node-recurly": {
+      "version": "2.1.1",
+      "resolved": "https://github.com/meteor/node-recurly/tarball/1ad6e08e49ace696d6ead785ce84d669f18d88ae",
+      "from": "https://github.com/meteor/node-recurly/tarball/1ad6e08e49ace696d6ead785ce84d669f18d88ae"
+    },
+    "sax": {
+      "version": "1.2.1",
+      "resolved": "file:node_shrinkwrap/sax-1.2.1.tgz",
+      "from": "sax@>=0.6.0"
+    },
+    "xml2js": {
+      "version": "0.4.17",
+      "resolved": "https://registry.npmjs.org/xml2js/-/xml2js-0.4.17.tgz",
+      "from": "xml2js@>=0.4.0"
+    },
+    "xmlbuilder": {
+      "version": "4.2.1",
+      "resolved": "https://registry.npmjs.org/xmlbuilder/-/xmlbuilder-4.2.1.tgz",
+      "from": "xmlbuilder@>=4.1.0 <5.0.0"
+    }
+  }
+}
